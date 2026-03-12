@@ -4,6 +4,7 @@
   "description": "Moral Descent game server",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'No build step required'",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
